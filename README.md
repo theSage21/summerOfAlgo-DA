@@ -3,20 +3,33 @@
 - day1
     - https://leetcode.com/problems/contains-duplicate/
         - [arjoonn](code/1.1.arjoonn.py)
+		- [Sandeep](code/Day_1.Q_1.Sndp.py)
     - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+		- [Sandeep](code/Day_1.Q_2.Sndp.py)
     - https://leetcode.com/problems/height-checker/
+		- [Sandeep](Day_1.Q_3.Sndp.py)
 - day2
     - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+		- [Sandeep](code/Day_2.Q_1.Sndp.py)
     - https://leetcode.com/problems/search-insert-position/
+		- [Sandeep](code/Day_2.Q_2.Sndp.py)
 - day3
     - https://leetcode.com/problems/count-numbers-with-unique-digits/submissions/
+		- [Sandeep](code/Day_3.Q_1.Sndp.py)
     - https://leetcode.com/problems/kth-largest-element-in-an-array/
+		- [Sandeep](code/Day_3.Q_2.Sndp.py)
 - day4
     - https://www.hackerrank.com/challenges/the-birthday-bar/problem
+		- [Sandeep](code/Day_4.Q_1.Sndp.py)
     - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+		- [Sandeep](code/Day_4.Q_2.Sndp.py)
 - day5
     - https://www.hackerrank.com/challenges/the-hurdle-race/problem
+		- [Sandeep](code/Day_5.Q_1.Sndp.py)
     - https://www.hackerrank.com/challenges/strange-advertising/problem
+		- [Sandeep](code/Day_5.Q_2.Sndp.py)
 - day6
     - https://www.hackerrank.com/challenges/mini-max-sum/problem
+		- [Sandeep](code/Day_6.Q_1.Sndp.py)
     - https://www.hackerrank.com/challenges/bon-appetit/problem
+		- [Sandeep](code/Day_6.Q_2.Sndp.py)
