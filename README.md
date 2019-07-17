@@ -1,0 +1,22 @@
+# Solutions Index
+
+- day1
+    - https://leetcode.com/problems/contains-duplicate/
+        - [arjoonn](code/1.1.arjoonn.py)
+    - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+    - https://leetcode.com/problems/height-checker/
+- day2
+    - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+    - https://leetcode.com/problems/search-insert-position/
+- day3
+    - https://leetcode.com/problems/count-numbers-with-unique-digits/submissions/
+    - https://leetcode.com/problems/kth-largest-element-in-an-array/
+- day4
+    - https://www.hackerrank.com/challenges/the-birthday-bar/problem
+    - https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+- day5
+    - https://www.hackerrank.com/challenges/the-hurdle-race/problem
+    - https://www.hackerrank.com/challenges/strange-advertising/problem
+- day6
+    - https://www.hackerrank.com/challenges/mini-max-sum/problem
+    - https://www.hackerrank.com/challenges/bon-appetit/problem
