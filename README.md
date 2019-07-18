@@ -33,3 +33,8 @@
 		- [Sandeep](code/Day_6.Q_1.Sndp.py)
     - https://www.hackerrank.com/challenges/bon-appetit/problem
 		- [Sandeep](code/Day_6.Q_2.Sndp.py)
+- day7
+    - https://leetcode.com/problems/first-unique-character-in-a-string/
+		- [Sandeep](code/Day_7.Q_1.Sndp.py)
+    - https://leetcode.com/problems/robot-return-to-origin/
+		- [Sandeep](code/Day_7.Q_2.Sndp.py)
