@@ -38,3 +38,9 @@
 		- [Sandeep](code/Day_7.Q_1.Sndp.py)
     - https://leetcode.com/problems/robot-return-to-origin/
 		- [Sandeep](code/Day_7.Q_2.Sndp.py)
+		
+- day8
+    - https://leetcode.com/problems/complex-number-multiplication/
+		- [Sandeep](code/Day_8.Q_1.Sndp.py)
+    - https://leetcode.com/problems/find-and-replace-pattern/
+		- [Sandeep](code/Day_8.Q_2.Sndp.py)
