@@ -45,4 +45,5 @@
 		- [Sandeep](code/Day_8.Q_2.Sndp.py)
 - day9
     - https://leetcode.com/problems/score-of-parentheses/
+        - [Arjoonn](code/9.1.arjoonn.py
     - https://leetcode.com/problems/longest-uncommon-subsequence-i/
